@@ -53,7 +53,7 @@ This is a help file for a description of all Data, Source Code, and Subroutine u
 
 	e. Lat_Vary_2026.ipynb - It calculates the inversion of gravity anomaly for a two-layer synthetic sedimentary basin having laterally varying density contrast with noise case using by Bayesian Inference using Structural GP regression, Active Learning using Structural GP. Outputs are shown in figure 9(a,b,c,d,e,f)
 
-   f. Resolution_Analysis.ipynb - It does the analysis of how to select control points (i.e. model dimension) using Check-board analysis, along with inversion for high dimensional high resolution models. Outputs of the file shown in figures 10, Supporting document figures ( S - 3,4,5,6,7,8,9,10)
+    f. Resolution_Analysis.ipynb - It does the analysis of how to select control points (i.e. model dimension) using Check-board analysis, along with inversion for high dimensional high resolution models. Outputs of the file shown in figures 10, Supporting document figures ( S - 3,4,5,6,7,8,9,10)
 
 	g. Ver_Lat_Varying_2026.ipynb - It calculates the inversion of gravity anomaly for a one-layer synthetic sedimentary basin having vertical as well as laterally varying density contrast with noise case using Structural Gaussian Process regression approach. Output is shown in figure 11(a,b,c,d,e,f).
 
